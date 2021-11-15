@@ -1,0 +1,16 @@
+@import 'variable';
+@mixin button{
+    border: none;
+    border-radius: 20px;
+    padding: 8px 27px 8px 27px;
+    box-shadow: 1px 1px $text-color;
+}
+
+
+.price-height{
+    height:50px;
+}
+
+.order-btn{
+@include button;
+}

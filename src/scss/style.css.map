@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,YAAY,CAAA;EACR,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,QAAQ,EAAE,QAAQ;EAClB,OAAO,EAAE,CAAC;CACb;;ACID,AAAA,aAAa,CAAA;EACT,MAAM,EAAC,IAAI;CACd;;AAED,AAAA,UAAU,CAAA;EAXN,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,iBAAiB;EAC1B,UAAU,EAAE,GAAG,CAAC,GAAG,CCLX,OAAO;CDelB;;AEfD,AAAA,gBAAgB,CAAA;EAChB,MAAM,EAAC,KAAM;EACb,KAAK,EAAE,KAAK;CACX",
+    "sources": [
+        "style.scss",
+        "banner.scss",
+        "pricePlans.scss",
+        "variable.scss",
+        "portfolio.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

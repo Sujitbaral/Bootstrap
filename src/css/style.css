@@ -1,0 +1,22 @@
+.self-banner {
+  width: 340px;
+  height: 340px;
+  position: relative;
+  z-index: 1;
+}
+
+.price-height {
+  height: 50px;
+}
+
+.order-btn {
+  border: none;
+  border-radius: 20px;
+  padding: 8px 27px 8px 27px;
+  box-shadow: 1px 1px #2B2B2B;
+}
+
+.portfolio-image {
+  height: 350px;
+  width: 340px;
+}

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AASA,AAAA,aAAa,CAAA;EACT,MAAM,EAAC,IAAI;CACd;;AAED,AAAA,UAAU,CAAA;EAXN,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,IAAI;EACnB,OAAO,EAAE,iBAAiB;EAC1B,UAAU,EAAE,GAAG,CAAC,GAAG,CCLX,OAAO;CDelB",
+    "sources": [
+        "pricePlans.scss",
+        "variable.scss"
+    ],
+    "names": [],
+    "file": "pricePlans.css"
+}

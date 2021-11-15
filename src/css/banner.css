@@ -1,0 +1,6 @@
+.self-banner {
+  width: 340px;
+  height: 340px;
+  position: relative;
+  z-index: 1;
+}

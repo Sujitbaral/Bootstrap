@@ -1,0 +1,12 @@
+.price-height {
+  height: 50px;
+}
+
+.order-btn {
+  border: none;
+  border-radius: 20px;
+  padding: 8px 27px 8px 27px;
+  -webkit-box-shadow: 1px 1px #2B2B2B;
+          box-shadow: 1px 1px #2B2B2B;
+}
+/*# sourceMappingURL=pricePlans.css.map */
